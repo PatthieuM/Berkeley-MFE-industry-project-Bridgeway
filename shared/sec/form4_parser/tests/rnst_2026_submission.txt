@@ -1,0 +1,158 @@
+<SEC-DOCUMENT>0001192026-26-000006.txt : 20260803
+<SEC-HEADER>0001192026-26-000006.hdr.sgml : 20260803
+<ACCEPTANCE-DATETIME>20260803161451
+ACCESSION NUMBER:		0001192026-26-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260803
+FILED AS OF DATE:		20260803
+DATE AS OF CHANGE:		20260803
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MCGRAW EDWARD ROBINSON
+		CENTRAL INDEX KEY:			0001192026
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13253
+		FILM NUMBER:		261233026
+
+	MAIL ADDRESS:	
+		STREET 1:		209 TROY ST
+		CITY:			TUPELO
+		STATE:			MS
+		ZIP:			38804
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RENASANT CORP
+		CENTRAL INDEX KEY:			0000715072
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				640676974
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		209 TROY STREET
+		CITY:			TUPELO
+		STATE:			MS
+		ZIP:			38804-4827
+		BUSINESS PHONE:		(662) 680-1001
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 709
+		CITY:			TUPELO
+		STATE:			MS
+		ZIP:			38802-0709
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PEOPLES HOLDING CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wk-form4_1785788087.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000715072</issuerCik>
+        <issuerName>RENASANT CORP</issuerName>
+        <issuerTradingSymbol>RNST</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001192026</rptOwnerCik>
+            <rptOwnerName>MCGRAW EDWARD ROBINSON</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>P.O. BOX 709</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>TUPELO</rptOwnerCity>
+            <rptOwnerState>MS</rptOwnerState>
+            <rptOwnerZipCode>38802</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>43.88</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>211458</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Colton Wages, Attorney in Fact</signatureName>
+        <signatureDate>2026-08-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

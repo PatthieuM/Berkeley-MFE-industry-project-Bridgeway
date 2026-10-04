@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+signals/*/results/figures/
+*.parquet
+*.zip
+data/
+signals/smallcap_purchases/results/*.csv
+!signals/smallcap_purchases/results/results_table.csv
+!signals/smallcap_purchases/results/ssn_results.csv
+*.tar.gz
+# SEC download caches written by the Form 4 parser
+.cache/
+.DS_Store
+.Rhistory
+!signals/smallcap_purchases/results/conditioning.csv

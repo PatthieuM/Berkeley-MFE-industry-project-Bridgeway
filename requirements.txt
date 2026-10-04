@@ -1,0 +1,14 @@
+-c constraints-research.txt
+pandas
+numpy
+scipy
+statsmodels
+pyarrow
+matplotlib
+nbformat
+nbclient
+psycopg2-binary
+pexpect
+requests
+lxml
+pytest

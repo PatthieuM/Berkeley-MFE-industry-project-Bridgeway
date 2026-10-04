@@ -1,0 +1,212 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WW77j4wCji5vjjwd2Ts0C3Y+vvAJsDy4aNm1Y07FVo3DFXTL2C078RDYRxBBT8lk
+ LjJwBvg3PApGlpC0TQj1Fw==
+
+<SEC-DOCUMENT>0000715072-03-000001.txt : 20030103
+<SEC-HEADER>0000715072-03-000001.hdr.sgml : 20030103
+<ACCEPTANCE-DATETIME>20030103134814
+ACCESSION NUMBER:		0000715072-03-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20021231
+FILED AS OF DATE:		20030103
+
+REPORTING-OWNER:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BEASLEY WILLIAM M
+		CENTRAL INDEX KEY:			0001192028
+		RELATIONSHIP:				DIRECTOR
+
+	FILING VALUES:
+		FORM TYPE:		4
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O PEOPLES BANK & TRUST CO
+		STREET 2:		209 TROY STREET
+		CITY:			TUPELO
+		STATE:			MS
+		ZIP:			38802-0709
+		BUSINESS PHONE:		6626801472
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PEOPLES HOLDING CO
+		CENTRAL INDEX KEY:			0000715072
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				640676974
+		STATE OF INCORPORATION:			MS
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13253
+		FILM NUMBER:		03502450
+
+	BUSINESS ADDRESS:	
+		STREET 1:		209 TROY ST
+		STREET 2:		P O BOX 709
+		CITY:			TUPELO
+		STATE:			MS
+		ZIP:			38802
+		BUSINESS PHONE:		6016801001
+
+	MAIL ADDRESS:	
+		STREET 1:		209 TROY ST
+		STREET 2:		P O BOX 709
+		CITY:			TUPELO
+		STATE:			MS
+		ZIP:			38802
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>beasleyform4.txt
+<DESCRIPTION>FORM 4 DSU 010103
+<TEXT>
+FORM 4
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+( ) Check this box if                                        OMB APPROVAL
+no longer subject to                                  OMB Number:      3235-0287
+Section 16. Form 4 or                                 Expires:  January 31, 2005
+Form 5 obligations may                                Estimated average burden
+continue. See Insturction 1(b)                        hours per response.....0.5
+
+                  STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP
+
+Filed pursuant to Section 16(a) of the Securities Exchange Act of 1934, Section
+17(a) of the Public Utility Holding Company Act of 1935 or Section 30(h) of the
+Investment Company Act of 1940
+
+================================================================================
+
+1.  Name (Last, First Middle) and Address of Reporting Person*
+
+        Beasley, William M.
+        P. O. Box 1220
+        Tupelo, Ms. 38802
+
+2.  Issuer Name and Ticker or Trading Symbol
+
+        The Peoples Holding Company (PHC)
+
+3.  IRS Identification Number of Reporting Person, if an entity (Voluntary)
+
+        ###-##-####
+
+4.  Statement for Month/Day/Year
+
+        December 31, 2002
+
+5.  If Amendment, Date of Original  (Month/Day/Year)
+
+6.  Relationship of Reporting Person(s) to Issuer (Check all applicable)
+
+        ( X ) Director                   (  ) 10% Owner
+        (   ) Officer (give title below) (  ) Other (specify below)
+
+             _________________________
+
+7.  Individual or Joint/Group Filing (Check Applicable Line)
+        ( X ) Form filed by One Reporting Person
+        (   ) Form filed by More than One Reporting Person
+
+<TABLE>
+====================================================================================================================================
+Table I - - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned
+====================================================================================================================================
+<CAPTION>
++-------------------+------------+-------------+----------+------------------------------+----------------+-----------+------------+
+|1. Title of        |2. Trans-   |2a.Deemed   |3. Trans-  | 4.Securities Acquired (A)    |5. Amount of    | 6.Owner-  |7. Nature of|
+|   Security        |   action   |   Execution|   action  |   or Disposed of (D)         |   Securities   |   ship    |   Indirect |
+|                   |   Date     |   Date, if |   Code    |   (Instr.3,4 and 5)          |   Beneficially |   Form:   |   Bene-    |
+|   (Instr.3)       |            |   any      |  (Instr.8)|                              |   Owned Follow-|   Direct  |   ficial   |
+]                   |            |            |-----------+------------------------------|   ing Reported |   (D) or  |   Owner-   |
+|                   |            |            |      |    |            |      |          |   Transaction  |   Indirect|   ship     |
+|                   |            |            |      |    |            |(A)or |          |   (s)(Instr.3  |   (I)     |            |
+|                   |(Mo/Dy/Yr)  |  (Mo/Dy/Yr)| Code | V  |   Amount   |(D)   |  Price   |    and 4)      |  (Instr.4)| (Instr.4)  |
+- --------------------+------------+------------+-----------+------------+------+----------+----------------+-----------+------------+
+<S>                  <C>          <C>          <C>    <C>  <C>          <C>    <C>        <C>              <C>         <C>
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+Reminder: Report on a separate line for each class of securities benefically owned directly or indirectly.
+
+*If the form is filed by more than one reporting person, see Instruction 4(b)(v).
+
+Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a
+currently valid OMB control number.
+</TABLE>
+<PAGE>
+FORM 4 (Continued)
+
+<TABLE>
+====================================================================================================================================
+TABLE II - - Derivative Securities Acquired, Disposed of, or Beneficially Owned
+             (e.g., puts, calls, warrants, options, convertible securities)
+====================================================================================================================================
+<CAPTION>
++-----------------------------+--------------+-----------+---------------+--------------+-------------------+----------------------+
+|1. Title of Derivative       | 2. Convers-  | 3. Trans- |3A. Deemed     | 4. Transact- | 5. Number of      | 6. Date Exercisable  |
+|   Security                  |    ion or    |    action |    Execution  |    ion Code  |    Derivative     |    and Expiration    |
+|   (Instr.3)                 |    Exercise  |    Date   |    Date, if   |    (Instr.8) |    Securities     |    Date              |
+|                             |    Price of  |           |    any        |              |    Acquired (A) or|    (Month/Day/Year)  |
+|                             |    Derivative|           |               |              |    Disposed of    |                      |
+|                             |    Security  |           |               |              |    (D)(Instr. 3,4,|                      |
+|                             |              |           |               |              |    and 5)         +-----------+----------|
+|                             |              |           |               +-------+------+---------+---------| Date Exer-| Expira-  |
+|                             |              |(Mo/Dy/Yr) |   (Mo/Dy/Yr)  |  Code |  V   |  (A)    |   (D)   | cisable   | tion Date|
++-----------------------------+--------------+-----------+---------------+-------+------+---------+---------+-----------+----------+
+<S>                           <C>            <C>         <C>             <C>     <C>    <C>       <C>       <C>         <C>
+ Phantom Stock                    1 for 1      12/31/2002                    A       V     12.27                  (1)        (1)
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
++--------------------------------------+---------------------+---------------------+----------------------+------------------------+
+|7.  Title and Amount of Underlying    |8. Price of Deriv-   | 9. Number of Deriv- | 10. Ownership Form   | 11. Nature of Indirect |
+|    Securities                        |   ative Security    |    ative Securities |     of Derivative    |     Beneficial         |
+|    (Instr. 3 and 4)                  |   (Instr.5)         |    Beneficially     |     Security:        |     Ownership          |
++-----------------+--------------------+                     |    Owned Following  |     Direct(D) or     |     (Instr. 4)         |
+|      Title      |  Amount or Number  |                     |    Reported         |     Indirect (I)     |                        |
+|                 |  of Shares         |                     |    Transaction(s)   |     (Instr.4)        |                        |
+|                 |                    |                     |    (Instr.4)        |                      |                        |
++-----------------+--------------------+---------------------+---------------------+----------------------+------------------------+
+<S>                <C>                  <C>                   <C>                   <C>                    <C>
+ Common Stock             12.27                $40.75 (2)              175.28                  D
+- ------------------------------------------------------------------------------------------------------------------------------------
+Explanation of Responses:
+
+(1) The stock units are to be settled 100% in common stock upon the reporting person's normal retirement or upon approved request
+    for hardship reasons.
+(2) The phantom stock units were accrued under the PHC deferred compensation plan.
+
+</TABLE>
+
+/s/  William M. Beasley                         January 2, 2003
+___________________________________             ________________________________
+**Signature of Reporting Person                 Date
+
+** Intentional  misstatements or omissions of facts constitute  Federal Criminal
+Violations. See 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).
+
+Potential persons who are to respond to the collection of information  contained
+in this form are not  required to respond  unless the form  displays a currently
+valid OMB Number.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
